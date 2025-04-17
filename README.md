@@ -1,4 +1,4 @@
-## Hi Adelina 👋
+## Hi, I'm Adelina👋
 **`Desenvolvedora Front-End`**
 
 Me chamo Adelina Camata, tenho 19 anos e sou natural de Luanda (Angola). Estou fazendo último ano do ensino médio no Colégio Árvore da Felicidade, onde estou cursando técnico em informática. Atualmente, estou estudando tecnologias que me ajudem a melhorar às minhas habilidades como desenvolvedora front-end. Sou apaixonada por tecnologia e acredito que através dela posso fazer a diferença e de algum modo tornar o mundo melhor. "
